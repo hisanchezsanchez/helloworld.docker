@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "firebase.user",
+      "type": "java.lang.String",
+      "description": "Description for firebase.user."
+    },
+    {
+      "name": "firebase.pwd",
+      "type": "java.lang.String",
+      "description": "Description for firebase.pwd."
+    }
+  ]
+}
