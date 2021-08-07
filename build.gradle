@@ -7,8 +7,8 @@ plugins {
 
 group = 'com.example'
 version = '0.0.1-SNAPSHOT'
-targetCompatibility = JavaVersion.VERSION_16
-sourceCompatibility =JavaVersion.VERSION_16
+targetCompatibility = JavaVersion.VERSION_11
+sourceCompatibility =JavaVersion.VERSION_11
 
 repositories {
     mavenLocal()
